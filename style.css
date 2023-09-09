@@ -1,0 +1,40 @@
+/* card grid */
+
+.d-grid {
+  display: grid;
+  grid-template-columns: auto;
+  grid-gap: 15px;
+}
+.card a {
+  text-decoration: none;
+  color: #212529;
+}
+@media (min-width: 768px) {
+  .d-grid {
+    display: grid;
+    grid-template-columns: auto auto;
+  }
+}
+
+@media (min-width: 992px) {
+  .d-grid {
+    display: grid;
+    grid-template-columns: auto auto auto;
+  }
+}
+
+@media (min-width: 1170px) {
+  .d-grid {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+  }
+}
+
+@media (min-width: 1400px) {
+  .d-grid {
+    display: grid;
+    grid-template-columns: auto auto auto auto auto;
+  }
+}
+
+/* card grid */
