@@ -1,0 +1,18 @@
+{
+  "name": "mcd",
+  "version": "1.0.0",
+  "devDependencies": {
+    "browser-sync": "2.29.3",
+    "npm-run-all": "4.1.5",
+    "parallel": "1.2.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "php": "php -S localhost:8000",
+    "bs": "browser-sync start --proxy 'localhost:8000' --files '**/*.php'",
+    "proxy": "npm-run-all --parallel php bs"
+  },
+  "author": "Bilal Ahmed",
+  "license": "ISC",
+  "description": ""
+}
