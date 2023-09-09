@@ -7,7 +7,12 @@
   <title>Document</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
     integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
-  <link rel="stylesheet" href="./../style.css">
+    <link
+    rel="stylesheet"
+    href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css"
+  />
+
+    <link rel="stylesheet" href="./../style.css">
 
 <body>
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
@@ -78,7 +83,8 @@
               aria-expanded="false">Outdoor</a>
             <ul class="dropdown-menu">
               <li><a class="dropdown-item" href="#">Copper Fire Pit</a></li>
-              <li><a class="dropdown-item" href="#">Planters</a></li>
+              <li><a class="dropdown-item" href="#">Hanging Planter</a></li>
+              <li><a class="dropdown-item" href="#">planters with Stands</a></li>
             </ul>
           </li>
 
