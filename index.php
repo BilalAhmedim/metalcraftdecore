@@ -11,16 +11,16 @@
     </div>
     <div class="carousel-inner">
       <div class="carousel-item active">
-        <img src="./assets/slider (1).jpg" class="d-block w-100" alt="..." loading="lazy">
+        <img src="./assets/slider (1).jpg" class="d-block w-100" alt="...">
       </div>
       <div class="carousel-item">
-        <img src="./assets/slider (2).jpg" class="d-block w-100" alt="..." loading="lazy">
+        <img src="./assets/slider (2).jpg" class="d-block w-100" alt="...">
       </div>
       <div class="carousel-item">
-        <img src="./assets/slider (3).jpg" class="d-block w-100" alt="..." loading="lazy">
+        <img src="./assets/slider (3).jpg" class="d-block w-100" alt="...">
       </div>
       <div class="carousel-item">
-        <img src="./assets/slider (4).jpg" class="d-block w-100" alt="..." loading="lazy">
+        <img src="./assets/slider (4).jpg" class="d-block w-100" alt="...">
       </div>
     </div>
     <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleFade" data-bs-slide="prev">
@@ -58,7 +58,9 @@
       totam dolore similique rem sapiente voluptates soluta pariatur, excepturi dicta, sint reiciendis accusantium
       laborum?
     </p>
-    <button class="btn btn-primary"><a href="/about.php">About Us.</a></button>
+    <center class="mt-5">
+      <button class="btn btn-secondary"><a href="/about.php">About Us.</a></button>
+    </center>
   </div>
 </section>
 

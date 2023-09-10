@@ -9,7 +9,7 @@
   "main": "index.js",
   "scripts": {
     "php": "php -S localhost:9000 -t ./",
-    "bs": "browser-sync start --proxy 'localhost:8000' --files '**/*.php'",
+    "bs": "browser-sync start --proxy 'localhost:9000' --files '**/*.php'",
     "proxy": "npm-run-all --parallel php bs"
   },
   "author": "Bilal Ahmed",
