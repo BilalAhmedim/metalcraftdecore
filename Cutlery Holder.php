@@ -1,8 +1,8 @@
 <?php include 'header.php';
-$page = 'Cutlery';
+$page = 'Cutlery Holder';
 $count = 1;
-$count_max = 20;
-$path = './assets/Cutlery';
+$count_max = 28;
+$path = './assets/Cutlery Holder';
 
 ?>
 

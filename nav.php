@@ -13,15 +13,15 @@
       <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
         <ul class="navbar-nav ml-auto ">
           <li class="nav-item">
-            <a class="nav-link" href="#">Home</a>
+            <a class="nav-link" href="/">Home</a>
           </li>
 
           <li class="nav-item dropdown">
             <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button"
               aria-expanded="false">Urns</a>
             <ul class="dropdown-menu">
-              <li><a class="dropdown-item" href="#">Keepsake Urns</a></li>
-              <li><a class="dropdown-item" href="#">Large Urns</a></li>
+              <li><a class="dropdown-item" href="/Urns-keepsaske.php">Keepsake Urns</a></li>
+              <li><a class="dropdown-item" href="/Urns-Large.php">Urn Large</a></li>
             </ul>
           </li>
 
@@ -29,10 +29,10 @@
             <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button"
               aria-expanded="false">Christmas</a>
             <ul class="dropdown-menu">
-              <li><a class="dropdown-item" href="#">Christmas Bell</a></li>
-              <li><a class="dropdown-item" href="#">Christmass Tree & Deer</a></li>
-              <li><a class="dropdown-item" href="#">Stocking Holder</a></li>
-              <li><a class="dropdown-item" href="#">Wreaths</a></li>
+              <li><a class="dropdown-item" href="/Christmas Bell.php">Christmas Bell</a></li>
+              <li><a class="dropdown-item" href="/Christmass Tree & Deer.php">Christmass Tree & Deer</a></li>
+              <li><a class="dropdown-item" href="/Stocking Holder.php">Stocking Holder</a></li>
+              <li><a class="dropdown-item" href="/Wreaths.php">Wreaths</a></li>
             </ul>
           </li>
 
@@ -40,12 +40,12 @@
             <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button"
               aria-expanded="false">Kitchen</a>
             <ul class="dropdown-menu">
-              <li><a class="dropdown-item" href="#">Cutlery</a></li>
-              <li><a class="dropdown-item" href="#">Kitchen Containers</a></li>
-              <li><a class="dropdown-item" href="#">Cake Stand</a></li>
-              <li><a class="dropdown-item" href="#">Alum Bowl & Tray</a></li>
-              <li><a class="dropdown-item" href="#">Cutlery Holder</a></li>
-              <li><a class="dropdown-item" href="#">Wash Mug</a></li>
+              <li><a class="dropdown-item" href="/Cutlery.php">Cutlery</a></li>
+              <li><a class="dropdown-item" href="/Kitchen Containers.php">Kitchen Containers</a></li>
+              <li><a class="dropdown-item" href="/Cake Stand.php">Cake Stand</a></li>
+              <li><a class="dropdown-item" href="/Alum Bowl & Tray.php">Alum Bowl & Tray</a></li>
+              <li><a class="dropdown-item" href="/Cutlery Holder.php">Cutlery Holder</a></li>
+              <li><a class="dropdown-item" href="/Wash Mug.php">Wash Mug</a></li>
             </ul>
           </li>
 
@@ -53,11 +53,11 @@
             <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button"
               aria-expanded="false">Decorative</a>
             <ul class="dropdown-menu">
-              <li><a class="dropdown-item" href="#">Candle Stand</a></li>
-              <li><a class="dropdown-item" href="#">Flower Vase</a></li>
-              <li><a class="dropdown-item" href="#">Menorah</a></li>
-              <li><a class="dropdown-item" href="#">Sculpture</a></li>
-              <li><a class="dropdown-item" href="#">Wooden items</a></li>
+              <li><a class="dropdown-item" href="/Candle Stand.php">Candle Stand</a></li>
+              <li><a class="dropdown-item" href="/Flower Vase.php">Flower Vase</a></li>
+              <li><a class="dropdown-item" href="/Menorah.php">Menorah</a></li>
+              <li><a class="dropdown-item" href="/Sculpture.php">Sculpture</a></li>
+              <li><a class="dropdown-item" href="/Wooden items.php">Wooden items</a></li>
             </ul>
           </li>
 
@@ -65,9 +65,9 @@
             <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button"
               aria-expanded="false">Outdoor</a>
             <ul class="dropdown-menu">
-              <li><a class="dropdown-item" href="#">Copper Fire Pit</a></li>
-              <li><a class="dropdown-item" href="#">Hanging Planter</a></li>
-              <li><a class="dropdown-item" href="#">planters with Stands</a></li>
+              <li><a class="dropdown-item" href="/Copper Fire Pit.php">Copper Fire Pit</a></li>
+              <li><a class="dropdown-item" href="/Hanging Planter.php">Hanging Planter</a></li>
+              <li><a class="dropdown-item" href="/planters with Stands.php">planters with Stands</a></li>
             </ul>
           </li>
 
@@ -75,19 +75,19 @@
             <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button"
               aria-expanded="false">Miscellaneous</a>
             <ul class="dropdown-menu">
-              <li><a class="dropdown-item" href="#">Wine Party Tub</a></li>
-              <li><a class="dropdown-item" href="#">Goblet</a></li>
-              <li><a class="dropdown-item" href="#">Metal Bookend</a></li>
-              <li><a class="dropdown-item" href="#">Watering Can</a></li>
-              <li><a class="dropdown-item" href="#">Table</a></li>
+              <li><a class="dropdown-item" href="/Wine Party Tub.php">Wine Party Tub</a></li>
+              <li><a class="dropdown-item" href="/Goblet.php">Goblet</a></li>
+              <li><a class="dropdown-item" href="/Metal Bookend.php">Metal Bookend</a></li>
+              <li><a class="dropdown-item" href="/Watering Can.php">Watering Can</a></li>
+              <li><a class="dropdown-item" href="/Table.php">Table</a></li>
             </ul>
           </li>
 
           <li class="nav-item">
-            <a class="nav-link" href="#">About</a>
+            <a class="nav-link" href="/About.php">About</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Contact</a>
+            <a class="nav-link" href="/Contact.php">Contact</a>
           </li>
         </ul>
       </div>

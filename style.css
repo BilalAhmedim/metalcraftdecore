@@ -54,6 +54,17 @@ p {
   font-family: "Raleway", sans-serif;
   font-weight: 400;
 }
+.pswp--ui-visible .pswp__hide-on-close {
+  color: #fff;
+  text-align: center;
+}
+.gallery-js a {
+  text-decoration: none;
+  color: var(--bs-gray-dark);
+}
+a .caption {
+  text-align: center;
+}
 /* Utility */
 
 /* About */
