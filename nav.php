@@ -2,7 +2,7 @@
     <div class="container">
       <!-- Your Logo -->
       <a class="navbar-brand" href="#">
-        <img src="/assets/mcd logo.png" alt="Your Logo" width="100">
+        <img src="/assets/MCD Logo.jpg" alt="Your Logo" width="100">
       </a>
       <!-- /Your Logo -->
 
