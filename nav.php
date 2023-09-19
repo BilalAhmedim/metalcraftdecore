@@ -41,7 +41,7 @@
               aria-expanded="false">Kitchen</a>
             <ul class="dropdown-menu">
               <li><a class="dropdown-item" href="/Cutlery.php">Cutlery</a></li>
-              <li><a class="dropdown-item" href="/Kitchen Containers.php">Kitchen Containers</a></li>
+              <li><a class="dropdown-item" href="/kitchen-container.php">Kitchen Containers</a></li>
               <li><a class="dropdown-item" href="/Cake Stand.php">Cake Stand</a></li>
               <li><a class="dropdown-item" href="/Alum Bowl & Tray.php">Alum Bowl & Tray</a></li>
               <li><a class="dropdown-item" href="/Cutlery Holder.php">Cutlery Holder</a></li>

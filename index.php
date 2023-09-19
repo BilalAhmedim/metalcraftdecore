@@ -108,8 +108,8 @@
   <div class="container d-grid">
 
     <div class="card animate__animated animate__zoomIn">
-      <a href="./pages/Keepsake Urns.php">
-        <img src="./assets/Urns/Keepsake Urns/1 (2).jpg" class="card-img-top" alt="Keepsake Urns" loading="lazy">
+      <a href="/Urns-keepsaske.php">
+        <img src="./assets/Urns/Keepsake Urns/1 (3).jpg" class="card-img-top" alt="Keepsake Urns" loading="lazy">
         <div class="card-body">
           <h5 class="card-title">Keepsake Urns</h5>
         </div>
@@ -117,8 +117,8 @@
     </div>
 
     <div class="card animate__animated animate__zoomIn">
-      <a href="Large Urns.php">
-        <img src="./assets/Urns/Large Urns/1 (1).jpg" class="card-img-top" alt="Large Urns" loading="lazy">
+      <a href="/Urns-Large.php">
+        <img src="./assets/Urns/Large Urns/1 (36).jpg" class="card-img-top" alt="Large Urns" loading="lazy">
         <div class="card-body">
           <h5 class="card-title">Large Urns</h5>
         </div>
@@ -126,8 +126,8 @@
     </div>
 
     <div class="card animate__animated animate__zoomIn">
-      <a href="Christmas Bell.php">
-        <img src="./assets/Christmas Decor/Christmas Bell/1 (1).jpg" class="card-img-top" alt="Christmas Bells"
+      <a href="/Christmas Bell.php">
+        <img src="./assets/Christmas Decor/Christmas Bell/1 (12).jpg" class="card-img-top" alt="Christmas Bells"
           loading="lazy">
         <div class="card-body">
           <h5 class="card-title">Christmas Bells</h5>
@@ -136,8 +136,8 @@
     </div>
 
     <div class="card animate__animated animate__zoomIn">
-      <a href="Kitchenn Container.php">
-        <img src="./assets/Christmas Decor/Christmass Tree & Deer/1 (1).jpg" class="card-img-top"
+      <a href="/kitchen-container.php">
+        <img src="./assets/Christmas Decor/Christmass Tree & Deer/1 (19).jpg" class="card-img-top"
           alt="Christmas Trees and Deers" loading="lazy">
         <div class="card-body">
           <h5 class="card-title">Christmas Trees and Deers</h5>
@@ -146,7 +146,7 @@
     </div>
 
     <div class="card animate__animated animate__zoomIn">
-      <a href="Stocking Holder.php">
+      <a href="/Stocking Holder.php">
         <img src="./assets/Christmas Decor/Stocking Holder/1 (1).jpg" class="card-img-top" alt="Stocking Holders"
           loading="lazy">
         <div class="card-body">
@@ -156,8 +156,8 @@
     </div>
 
     <div class="card animate__animated animate__zoomIn">
-      <a href="Wreaths.php">
-        <img src="./assets/Christmas Decor/Wreaths/1 (1).jpg" class="card-img-top" alt="Wreaths" loading="lazy">
+      <a href="/Wreaths.php">
+        <img src="./assets/Christmas Decor/Wreaths/1 (3).jpg" class="card-img-top" alt="Wreaths" loading="lazy">
         <div class="card-body">
           <h5 class="card-title">Wreaths</h5>
         </div>
@@ -165,7 +165,7 @@
     </div>
 
     <div class="card animate__animated animate__zoomIn">
-      <a href="Cutlery.php">
+      <a href="/Cutlery.php">
         <img src="./assets/Cutlery/1 (1).jpg" class="card-img-top" alt="Cutlery" loading="lazy">
         <div class="card-body">
           <h5 class="card-title">Cutlery</h5>
@@ -175,7 +175,7 @@
 
 
     <div class="card animate__animated animate__zoomIn">
-      <a href="Kitchenn Container.php">
+      <a href="/Kitchenn Container.php">
         <img src="./assets/Kitchen Container/1 (1).jpg" class="card-img-top" alt="Kitchen Containers" loading="lazy">
         <div class="card-body">
           <h5 class="card-title">Kitchen Containers</h5>
@@ -184,7 +184,7 @@
     </div>
 
     <div class="card animate__animated animate__zoomIn">
-      <a href="Cake Stand.php">
+      <a href="/Cake Stand.php">
         <img src="./assets/Cake Stand/1 (1).jpg" class="card-img-top" alt="Cake Stands" loading="lazy">
         <div class="card-body">
           <h5 class="card-title">Cake Stands</h5>
@@ -193,7 +193,7 @@
     </div>
 
     <div class="card animate__animated animate__zoomIn">
-      <a href="Alum Bowl & Tray.php">
+      <a href="/Alum Bowl & Tray.php">
         <img src="./assets/Alum Bowl & Tray/1 (1).jpg" class="card-img-top" alt="Alum Bowl & Trays" loading="lazy">
         <div class="card-body">
           <h5 class="card-title">Alum Bowl & Trays</h5>
@@ -202,7 +202,7 @@
     </div>
 
     <div class="card animate__animated animate__zoomIn">
-      <a href="Cutlery Holder.php">
+      <a href="/Cutlery Holder.php">
         <img src="./assets/Cutlery Holder/1 (1).jpg" class="card-img-top" alt="Cutlery Holders" loading="lazy">
         <div class="card-body">
           <h5 class="card-title">Cutlery Holders</h5>
@@ -211,7 +211,7 @@
     </div>
 
     <div class="card animate__animated animate__zoomIn">
-      <a href="Wash Mug.php">
+      <a href="/Wash Mug.php">
         <img src="./assets/Wash Mug/1 (1).jpg" class="card-img-top" alt="Wash Cups" loading="lazy">
         <div class="card-body">
           <h5 class="card-title">Wash Cups</h5>
@@ -220,7 +220,7 @@
     </div>
 
     <div class="card animate__animated animate__zoomIn">
-      <a href="Candle Stand.php">
+      <a href="/Candle Stand.php">
         <img src="./assets/Candle Stand/1 (1).jpg" class="card-img-top" alt="Candle Stands" loading="lazy">
         <div class="card-body">
           <h5 class="card-title">Candle Stands</h5>
@@ -229,8 +229,8 @@
     </div>
 
     <div class="card animate__animated animate__zoomIn">
-      <a href="Flower Vase.php">
-        <img src="./assets/Flower Vase/1 (1).jpg" class="card-img-top" alt="Flower Vases" loading="lazy">
+      <a href="/Flower Vase.php">
+        <img src="./assets/Flower Vase/1 (9).jpg" class="card-img-top" alt="Flower Vases" loading="lazy">
         <div class="card-body">
           <h5 class="card-title">Flower Vases</h5>
         </div>
@@ -239,8 +239,8 @@
 
 
     <div class="card animate__animated animate__zoomIn">
-      <a href="Menorah.php">
-        <img src="./assets/Menorah/1 (1).jpg" class="card-img-top" alt="Menorahs" loading="lazy">
+      <a href="/Menorah.php">
+        <img src="./assets/Menorah/1 (8).jpg" class="card-img-top" alt="Menorahs" loading="lazy">
         <div class="card-body">
           <h5 class="card-title">Menorahs</h5>
         </div>
@@ -248,7 +248,7 @@
     </div>
 
     <div class="card animate__animated animate__zoomIn">
-      <a href="Sculpture.php">
+      <a href="/Sculpture.php">
         <img src="./assets/Sculpture/1 (1).jpg" class="card-img-top" alt="Sculptures" loading="lazy">
         <div class="card-body">
           <h5 class="card-title">Sculptures</h5>
@@ -257,7 +257,7 @@
     </div>
 
     <div class="card animate__animated animate__zoomIn">
-      <a href="Wooden items.php">
+      <a href="/Wooden items.php">
         <img src="./assets/Wooden items/1 (1).jpg" class="card-img-top" alt="Wooden items" loading="lazy">
         <div class="card-body">
           <h5 class="card-title">Wooden Items</h5>
@@ -266,7 +266,7 @@
     </div>
 
     <div class="card animate__animated animate__zoomIn">
-      <a href="Copper Fire Pit.php">
+      <a href="/Copper Fire Pit.php">
         <img src="./assets/Copper Fire Pit/1 (1).jpg" class="card-img-top" alt="Fire Pits" loading="lazy">
         <div class="card-body">
           <h5 class="card-title">Fire Pits</h5>
@@ -275,7 +275,7 @@
     </div>
 
     <div class="card animate__animated animate__zoomIn">
-      <a href="Hanging Planter.php">
+      <a href="/Hanging Planter.php">
         <img src="./assets/Planters/Hanging Planter/1 (1).jpg" class="card-img-top" alt="Hanging Planter"
           loading="lazy">
         <div class="card-body">
@@ -285,7 +285,7 @@
     </div>
 
     <div class="card animate__animated animate__zoomIn">
-      <a href="planters with Stands.php">
+      <a href="/planters with Stands.php">
         <img src="./assets/Planters/planters with Stands/1 (1).jpg" class="card-img-top" alt="planters with Stands"
           loading="lazy">
         <div class="card-body">
@@ -295,7 +295,7 @@
     </div>
 
     <div class="card animate__animated animate__zoomIn">
-      <a href="Wine Party Tub.php">
+      <a href="/Wine Party Tub.php">
         <img src="./assets/Wine Party Tub/1 (1).jpg" class="card-img-top" alt="Wine Party Tubs" loading="lazy">
         <div class="card-body">
           <h5 class="card-title">Wine Party Tubs</h5>
@@ -304,7 +304,7 @@
     </div>
 
     <div class="card animate__animated animate__zoomIn">
-      <a href="Goblet.php">
+      <a href="/Goblet.php">
         <img src="./assets/Goblet/1 (1).jpg" class="card-img-top" alt="Goblets" loading="lazy">
         <div class="card-body">
           <h5 class="card-title">Goblets</h5>
@@ -313,7 +313,7 @@
     </div>
 
     <div class="card animate__animated animate__zoomIn">
-      <a href="Metal Bookend.php">
+      <a href="/Metal Bookend.php">
         <img src="./assets/Metal Bookend/1 (1).jpg" class="card-img-top" alt="Metal Bookends" loading="lazy">
         <div class="card-body">
           <h5 class="card-title">Metal Bookends</h5>
@@ -322,7 +322,7 @@
     </div>
 
     <div class="card animate__animated animate__zoomIn">
-      <a href="Watering Can.php">
+      <a href="/Watering Can.php">
         <img src="./assets/Watering Can/1 (1).jpg" class="card-img-top" alt="Watering Cans" loading="lazy">
         <div class="card-body">
           <h5 class="card-title">Watering Cans</h5>
@@ -331,7 +331,7 @@
     </div>
 
     <div class="card animate__animated animate__zoomIn">
-      <a href="Table.php">
+      <a href="/Table.php">
         <img src="./assets/Table/1 (1).jpg" class="card-img-top" alt="Tables" loading="lazy">
         <div class="card-body">
           <h5 class="card-title">Tables</h5>
