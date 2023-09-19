@@ -1,5 +1,5 @@
 <?php include 'header.php';
-$page = 'Copper Fire Pit';
+$page = 'Fire Pits';
 $count = 1;
 $count_max = 14;
 $path = './assets/Copper Fire Pit';

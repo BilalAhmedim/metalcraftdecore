@@ -1,5 +1,5 @@
 <?php include 'header.php';
-$page = 'Christmass Tree & Deer';
+$page = 'Christmas Trees and Deers';
 $count = 1;
 $count_max = 20;
 $path = './assets/Christmas Decor/Christmass Tree & Deer';

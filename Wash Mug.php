@@ -1,5 +1,5 @@
 <?php include 'header.php';
-$page = 'Wash Mug';
+$page = 'Wash Cups';
 $count = 1;
 $count_max = 30;
 $path = './assets/Wash Mug';
