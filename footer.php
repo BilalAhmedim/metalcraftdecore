@@ -1,6 +1,6 @@
 <footer>
 
-  <div class="container d-flex justify-content-between">
+  <div class="container d-grid justify-content-between">
     <ul>
       <li><a class="nav-link" href="/">Home</a></li>
       <li><a class="nav-link" href="about.php">About</a></li>
