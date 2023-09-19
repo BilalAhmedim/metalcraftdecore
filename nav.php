@@ -1,8 +1,8 @@
 <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <div class="container">
       <!-- Your Logo -->
-      <a class="navbar-brand" href="#">
-        <img src="/assets/MCD Logo.jpg" alt="Your Logo" width="100">
+      <a class="navbar-brand" href="/">
+        <img src="/assets/MCD Logo.png" alt="Metal Craft Decor" width="100">
       </a>
       <!-- /Your Logo -->
 
@@ -29,8 +29,8 @@
             <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button"
               aria-expanded="false">Christmas</a>
             <ul class="dropdown-menu">
-              <li><a class="dropdown-item" href="/Christmas Bell.php">Christmas Bell</a></li>
-              <li><a class="dropdown-item" href="/Christmass Tree & Deer.php">Christmass Tree & Deer</a></li>
+              <li><a class="dropdown-item" href="/Christmas Bell.php">Christmas Bells</a></li>
+              <li><a class="dropdown-item" href="/Christmass Tree & Deer.php">Christmas Trees and Deers</a></li>
               <li><a class="dropdown-item" href="/Stocking Holder.php">Stocking Holder</a></li>
               <li><a class="dropdown-item" href="/Wreaths.php">Wreaths</a></li>
             </ul>
@@ -45,7 +45,7 @@
               <li><a class="dropdown-item" href="/Cake Stand.php">Cake Stand</a></li>
               <li><a class="dropdown-item" href="/Alum Bowl & Tray.php">Alum Bowl & Tray</a></li>
               <li><a class="dropdown-item" href="/Cutlery Holder.php">Cutlery Holder</a></li>
-              <li><a class="dropdown-item" href="/Wash Mug.php">Wash Mug</a></li>
+              <li><a class="dropdown-item" href="/Wash Mug.php">Wash Cups</a></li>
             </ul>
           </li>
 
@@ -65,7 +65,7 @@
             <a class="nav-link dropdown-toggle" data-bs-toggle="dropdown" href="#" role="button"
               aria-expanded="false">Outdoor</a>
             <ul class="dropdown-menu">
-              <li><a class="dropdown-item" href="/Copper Fire Pit.php">Copper Fire Pit</a></li>
+              <li><a class="dropdown-item" href="/Copper Fire Pit.php">Fire Pits</a></li>
               <li><a class="dropdown-item" href="/Hanging Planter.php">Hanging Planter</a></li>
               <li><a class="dropdown-item" href="/planters with Stands.php">planters with Stands</a></li>
             </ul>

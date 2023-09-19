@@ -1,4 +1,4 @@
-<?php include './header.php'; ?>
+<?php include './header.php';?>
 
 <div class="slider">
   <div id="carouselExampleFade" class="carousel slide carousel-fade carousel-dark" data-bs-ride="carousel">
@@ -92,10 +92,10 @@
 
     <div class="card animate__animated animate__zoomIn">
       <a href="Christmas Bell.php">
-        <img src="./assets/Christmas Decor/Christmas Bell/1 (1).jpg" class="card-img-top" alt="Christmas Bell"
+        <img src="./assets/Christmas Decor/Christmas Bell/1 (1).jpg" class="card-img-top" alt="Christmas Bells"
           loading="lazy">
         <div class="card-body">
-          <h5 class="card-title">Christmas Bell</h5>
+          <h5 class="card-title">Christmas Bells</h5>
         </div>
       </a>
     </div>
@@ -103,9 +103,9 @@
     <div class="card animate__animated animate__zoomIn">
       <a href="Kitchenn Container.php">
         <img src="./assets/Christmas Decor/Christmass Tree & Deer/1 (1).jpg" class="card-img-top"
-          alt="Christmass Tree & Deer" loading="lazy">
+          alt="Christmas Trees and Deers" loading="lazy">
         <div class="card-body">
-          <h5 class="card-title">Christmass Tree & Deer</h5>
+          <h5 class="card-title">Christmas Trees and Deers</h5>
         </div>
       </a>
     </div>
@@ -177,9 +177,9 @@
 
     <div class="card animate__animated animate__zoomIn">
       <a href="Wash Mug.php">
-        <img src="./assets/Wash Mug/1 (1).jpg" class="card-img-top" alt="Wash Mugs" loading="lazy">
+        <img src="./assets/Wash Mug/1 (1).jpg" class="card-img-top" alt="Wash Cups" loading="lazy">
         <div class="card-body">
-          <h5 class="card-title">Wash Mugs</h5>
+          <h5 class="card-title">Wash Cups</h5>
         </div>
       </a>
     </div>
@@ -225,16 +225,16 @@
       <a href="Wooden items.php">
         <img src="./assets/Wooden items/1 (1).jpg" class="card-img-top" alt="Wooden items" loading="lazy">
         <div class="card-body">
-          <h5 class="card-title">Wooden items</h5>
+          <h5 class="card-title">Wooden Items</h5>
         </div>
       </a>
     </div>
 
     <div class="card animate__animated animate__zoomIn">
       <a href="Copper Fire Pit.php">
-        <img src="./assets/Copper Fire Pit/1 (1).jpg" class="card-img-top" alt="Copper Fire Pits" loading="lazy">
+        <img src="./assets/Copper Fire Pit/1 (1).jpg" class="card-img-top" alt="Fire Pits" loading="lazy">
         <div class="card-body">
-          <h5 class="card-title">Copper Fire Pits</h5>
+          <h5 class="card-title">Fire Pits</h5>
         </div>
       </a>
     </div>
@@ -308,4 +308,4 @@
   </div>
 </section>
 
-<?php include './footer.php'; ?>
+<?php include './footer.php';?>

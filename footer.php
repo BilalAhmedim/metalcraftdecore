@@ -15,14 +15,14 @@
 
       <hr class="dropdown-divider">
 
-      <li><a class="nav-link" href="#">Christmas Bell</a></li>
-      <li><a class="nav-link" href="#">Christmass Tree & Deer</a></li>
+      <li><a class="nav-link" href="#">Christmas Bells</a></li>
+      <li><a class="nav-link" href="#">Christmas Trees and Deers</a></li>
       <li><a class="nav-link" href="#">Stocking Holder</a></li>
       <li><a class="nav-link" href="#">Wreaths</a></li>
 
       <hr class="dropdown-divider">
 
-      <li><a class="nav-link" href="#">Copper Fire Pit</a></li>
+      <li><a class="nav-link" href="#">Fire Pits</a></li>
       <li><a class="nav-link" href="#">Hanging Planter</a></li>
       <li><a class="nav-link" href="#">planters with Stands</a></li>
     </ul>
@@ -33,7 +33,7 @@
       <li><a class="nav-link" href="#">Cake Stand</a></li>
       <li><a class="nav-link" href="#">Alum Bowl & Tray</a></li>
       <li><a class="nav-link" href="#">Cutlery Holder</a></li>
-      <li><a class="nav-link" href="#">Wash Mug</a></li>
+      <li><a class="nav-link" href="#">Wash Cups</a></li>
 
       <hr class="dropdown-divider">
 
