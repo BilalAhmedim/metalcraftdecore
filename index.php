@@ -73,26 +73,28 @@
 <section class="about">
   <div class="container">
     <div class="header">
-      <h1>About Metal Craft Decore</h1>
+      <h1>About Metal Craft Decor</h1>
     </div>
   </div>
   <div class="container">
-    <p>
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. In, quidem debitis! Tempore iure atque doloribus nihil
-      totam dolore similique rem sapiente voluptates soluta pariatur, excepturi dicta, sint reiciendis accusantium
-      laborum?
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. In, quidem debitis! Tempore iure atque doloribus nihil
-      totam dolore similique rem sapiente voluptates soluta pariatur, excepturi dicta, sint reiciendis accusantium
-      laborum?
-    </p>
-    <p>
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. In, quidem debitis! Tempore iure atque doloribus nihil
-      totam dolore similique rem sapiente voluptates soluta pariatur, excepturi dicta, sint reiciendis accusantium
-      laborum?
-      Lorem ipsum dolor sit amet consectetur adipisicing elit. In, quidem debitis! Tempore iure atque doloribus nihil
-      totam dolore similique rem sapiente voluptates soluta pariatur, excepturi dicta, sint reiciendis accusantium
-      laborum?
-    </p>
+  <p>We are manufacturers and exporters of hand crafted lifestyle home accessories, home accents and home products.
+      </p>
+      <p>We have established our reputation as a leading Manufacturer & Exporter of all kinds of Urns, Flower Vases,
+        Planters, Bowls, Wall Décor and Tableware with antique, modern finishes and an amazing variety in the markets.
+      </p>
+      <p>We are also a recognized export manufacturing unit by the Indian government.
+        We are specialized in fusing all the materials together to create beautiful products.
+        We are expert in product development and we can develop customized design as per your requirement. We translate
+        imagination and concepts into reality.</p>
+      <p>Our target to provide the best quality products to our customers, we continuously improve our manufacturing
+        facilities and technology. </p>
+      <p>
+        We ensure that the products are durable and of premium quality. The quality of our products meets the
+        international standards and we undergo continuous quality management to bring out international standard
+        products in attractive designs and at competitive prices.
+      </p>
+      <p>Our team of quality assurance experts always keeps a track of the whole production process so that only the
+        flawless products are dispatched from the production unit.</p>
     <center class="mt-5">
       <button class="btn btn-secondary"><a href="/about.php">About Us.</a></button>
     </center>
@@ -102,7 +104,7 @@
 <section class="gallery">
   <div class="container">
     <div class="header">
-      <h1>Metal Craft Decore Products</h1>
+      <h1>Metal Craft Decor Products</h1>
     </div>
   </div>
   <div class="container d-grid">
@@ -136,7 +138,7 @@
     </div>
 
     <div class="card animate__animated animate__zoomIn">
-      <a href="/kitchen-container.php">
+      <a href="/Christmass Tree & Deer.php">
         <img src="./assets/Christmas Decor/Christmass Tree & Deer/1 (19).jpg" class="card-img-top"
           alt="Christmas Trees and Deers" loading="lazy">
         <div class="card-body">
@@ -175,7 +177,7 @@
 
 
     <div class="card animate__animated animate__zoomIn">
-      <a href="/Kitchenn Container.php">
+      <a href="/kitchen-container.php">
         <img src="./assets/Kitchen Container/1 (1).jpg" class="card-img-top" alt="Kitchen Containers" loading="lazy">
         <div class="card-body">
           <h5 class="card-title">Kitchen Containers</h5>

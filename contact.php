@@ -33,8 +33,29 @@
   <meta name="theme-color" content="#ffffff">
 
 <body>
-<?php include 'nav.php';?>
+  <?php include 'nav.php';?>
 
+  <section class="contact">
+    <div class="container">
+      <h1>Contact Us.</h1>
+    </div>
+    <div class="container contact-us">
 
+      <div class="map">
+        <iframe
+          src="https://www.google.com/maps/embed?pb=!1m17!1m12!1m3!1d1200.581577999977!2d78.78359378231659!3d28.83109549374088!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m2!1m1!2zMjjCsDQ5JzUxLjciTiA3OMKwNDcnMDMuNCJF!5e0!3m2!1sen!2sin!4v1695540008378!5m2!1sen!2sin"
+          width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+          referrerpolicy="no-referrer-when-downgrade"></iframe>
+      </div>
 
-<?php include 'footer.php';?>
+      <div class="info">
+        <h1>Contact Person.</h1>
+        <h4>Husasin</h4>
+        <h4>+91-90456-75974</h4>
+        <h4><a href="mailto:info@metalcraftdecor.com">info@metalcraftdecor.com</a></h4>
+      </div>
+
+    </div>
+  </section>
+
+  <?php include 'footer.php';?>

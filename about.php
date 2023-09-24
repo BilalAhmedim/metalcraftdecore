@@ -4,7 +4,7 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>About Us  - Metal Craft Decor</title>
+  <title>About Us - Metal Craft Decor</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"
     integrity="sha384-EVSTQN3/azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC" crossorigin="anonymous">
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -33,8 +33,34 @@
   <meta name="theme-color" content="#ffffff">
 
 <body>
-<?php include 'nav.php';?>
+  <?php include 'nav.php';?>
 
+  <section class='about'>
+    <div class="container">
+      <h1>About Metal Craft Decor.</h1>
+    </div>
 
+    <div class="container">
+      <p>We are manufacturers and exporters of hand crafted lifestyle home accessories, home accents and home products.
+      </p>
+      <p>We have established our reputation as a leading Manufacturer & Exporter of all kinds of Urns, Flower Vases,
+        Planters, Bowls, Wall Décor and Tableware with antique, modern finishes and an amazing variety in the markets.
+      </p>
+      <p>We are also a recognized export manufacturing unit by the Indian government.
+        We are specialized in fusing all the materials together to create beautiful products.
+        We are expert in product development and we can develop customized design as per your requirement. We translate
+        imagination and concepts into reality.</p>
+      <p>Our target to provide the best quality products to our customers, we continuously improve our manufacturing
+        facilities and technology. </p>
+      <p>
+        We ensure that the products are durable and of premium quality. The quality of our products meets the
+        international standards and we undergo continuous quality management to bring out international standard
+        products in attractive designs and at competitive prices.
+      </p>
+      <p>Our team of quality assurance experts always keeps a track of the whole production process so that only the
+        flawless products are dispatched from the production unit.</p>
+        <div class="mt-5"></div>
+    </div>
+  </section>
 
-<?php include 'footer.php';?>
+  <?php include 'footer.php';?>
