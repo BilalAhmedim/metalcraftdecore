@@ -50,9 +50,10 @@
 
       <div class="info">
         <h1>Contact Person.</h1>
-        <h4>Husasin</h4>
-        <h4>+91-90456-75974</h4>
-        <h4><a href="mailto:info@metalcraftdecor.com">info@metalcraftdecor.com</a></h4>
+        <h4><b>Name: </b> Husain</h4>
+        <h4><b>Contact no:</b> +91-9045675974</h4>
+        <h4><b>E-mail: </b><a href="mailto:info@metalcraftdecor.com">info@metalcraftdecor.com</a></h4>
+        <h4><b>Address:</b> Behind Chand Wali Masjid Sarai Kishan Lal, Moradabad -244001 (U.P), INDIA</h4>
       </div>
 
     </div>

@@ -6,7 +6,7 @@
       <li><a class="nav-link" href="about.php">About</a></li>
       <li><a class="nav-link" href="contact.php">Contact</a></li>
       <!-- <img src="./assets/mcd logo.png" alt="Metal Craft Decore"> -->
-      <li><a class="nav-link" href="/">&copy; All Rights Reserved.<br />Metal Craft Decore</a></li>
+      <li><a class="nav-link" href="/">&copy; All Rights Reserved.<br />Metal Craft Decor</a></li>
     </ul>
 
     <ul>
